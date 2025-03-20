@@ -1,2 +1,2 @@
 # googlePlayPrivacyPolicy
-Google Play Privacy Policy
+Google Play Privacy Policy Example
